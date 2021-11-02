@@ -1,9 +1,5 @@
 # Vue.js Profile card demo
 
-## Deploy on DatoCMS
-
-[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/deploy?repo=datocms/vuejs-demo)
-
 Or if you are manually setting up the project, set the API token manually:
 
 ```
