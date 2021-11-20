@@ -1,4 +1,4 @@
-# Vue.js Profile card demo
+# Vue.js Profile card demo (DatoCMS)
 
 Or if you are manually setting up the project, set the API token manually:
 
